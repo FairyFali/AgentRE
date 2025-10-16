@@ -14,3 +14,6 @@ We provide the commands to reproduce results from our paper below.
 ```bash
 bash experiments/run.sh
 ```
+
+# Acknowledge
+Our code is based on [GPTSwarm](https://github.com/metauto-ai/gptswarm).
