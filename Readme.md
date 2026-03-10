@@ -1,5 +1,5 @@
 This is the official code for the paper: 
-> AGENT-REINFORCE: SEARCHING COMPUTE-OPTIMAL MULTI-LLM COLLABORATION GRAPH FOR TEST-TIME SCALING
+> Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph
 
 # Prepare the data
 We have prepared the data and put the datasets in the folder [datasets](./datasets).
